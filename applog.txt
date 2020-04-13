@@ -1,0 +1,32 @@
+Log File Opened...
+Instantiating Singletons
+Loading settings
+Initialised: Direct3D
+Initialised: DirectInput
+Initialised: Direct3D Device
+Initialised: Direct3D Sprite
+CKernel::Execute
+CObjectSceneNode: Creating texture wall.jpg
+CObjectSceneNode: Creating texture wall.jpg
+CObjectSceneNode: Creating texture wall.jpg
+CObjectSceneNode: Creating texture wall.jpg
+CObjectSceneNode: Creating texture floor.jpg
+CObjectSceneNode: Creating texture floor.jpg
+================================================
+FPS (avg min max):   22.66   0.00   32.26   (668 frames)
+Total Time: 32.342999 (20.65 fps calculated)
+================================================
+Released: DirectInput
+Released: Direct3D Sprite
+Released: Direct3D Device
+Released: Direct3D
+Destroying Scene...
+Lights released
+Warning: Not all objects have been cleaned up!
+Warning: Not all objects have been cleaned up!
+Warning: Not all objects have been cleaned up!
+Warning: Not all objects have been cleaned up!
+Warning: Not all objects have been cleaned up!
+Warning: Not all objects have been cleaned up!
+Warning: Not all objects have been cleaned up!
+Warning: Not all objects have been cleaned up!
